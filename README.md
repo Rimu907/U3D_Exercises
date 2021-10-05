@@ -1,2 +1,2 @@
-# Unity-Exercises
+# UnityExercises
 Gamelabs in UON
